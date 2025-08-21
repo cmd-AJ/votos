@@ -1,0 +1,28 @@
+RESULTADOS CONTEO PARALELO (OpenMP)
+====================================
+
+Configuracion:
+- Numero de boletas: 800000
+- Numero de candidatos: 10
+- Numero de hilos: 8
+
+Resultados por candidato:
+Candidato 1: 56657 votos
+Candidato 2: 56413 votos
+Candidato 3: 56488 votos
+Candidato 4: 56364 votos
+Candidato 5: 56473 votos
+Candidato 6: 56131 votos
+Candidato 7: 56776 votos
+Candidato 8: 56251 votos
+Candidato 9: 56353 votos
+Candidato 10: 56254 votos
+
+Resumen:
+- Votos validos: 564160
+- Votos nulos: 235840
+- Total procesado: 800000
+
+Tiempo de ejecucion: 0.004833 segundos
+Tiempo en milisegundos: 4.833 ms
+Boletas por segundo: 165538933
