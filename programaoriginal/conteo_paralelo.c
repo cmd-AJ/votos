@@ -20,9 +20,9 @@ double obtenerTiempoAlta() {
         QueryPerformanceCounter(&counter);
         return (double)counter.QuadPart / (double)frequency.QuadPart;
     #else
-        // struct timeval tv;
-        // gettimeofday(&tv, NULL);
-        // return tv.tv_sec + tv.tv_usec / 1000000.0;
+        struct timeval tv;
+        gettimeofday(&tv, NULL);
+        return tv.tv_sec + tv.tv_usec / 1000000.0;
     #endif
 }
 
