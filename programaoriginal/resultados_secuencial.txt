@@ -6,22 +6,22 @@ Configuracion:
 - Numero de candidatos: 10
 
 Resultados por candidato:
-Candidato 1: 70423 votos
-Candidato 2: 70830 votos
-Candidato 3: 70576 votos
-Candidato 4: 70412 votos
-Candidato 5: 70488 votos
-Candidato 6: 70400 votos
-Candidato 7: 70593 votos
-Candidato 8: 70945 votos
-Candidato 9: 70747 votos
-Candidato 10: 70686 votos
+Candidato 1: 70619 votos
+Candidato 2: 70261 votos
+Candidato 3: 70349 votos
+Candidato 4: 70217 votos
+Candidato 5: 70918 votos
+Candidato 6: 71042 votos
+Candidato 7: 70493 votos
+Candidato 8: 70306 votos
+Candidato 9: 70715 votos
+Candidato 10: 70142 votos
 
 Resumen:
-- Votos validos: 706100
-- Votos nulos: 293900
+- Votos validos: 705062
+- Votos nulos: 294938
 - Total procesado: 1000000
 
-Tiempo de ejecucion: 0.018117 segundos
-Tiempo en milisegundos: 18.117 ms
-Boletas por segundo: 55197691
+Tiempo de ejecucion: 0.041050 segundos
+Tiempo en milisegundos: 41.050 ms
+Boletas por segundo: 24360561
