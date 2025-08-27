@@ -1,0 +1,27 @@
+RESULTADOS CONTEO SECUENCIAL
+============================
+
+Configuracion:
+- Numero de boletas: 1000000
+- Numero de candidatos: 10
+
+Resultados por candidato:
+Candidato 1: 70534 votos
+Candidato 2: 70374 votos
+Candidato 3: 70764 votos
+Candidato 4: 70472 votos
+Candidato 5: 70671 votos
+Candidato 6: 70420 votos
+Candidato 7: 70499 votos
+Candidato 8: 70244 votos
+Candidato 9: 70711 votos
+Candidato 10: 70502 votos
+
+Resumen:
+- Votos validos: 705191
+- Votos nulos: 294809
+- Total procesado: 1000000
+
+Tiempo de ejecucion: 0.326197 segundos
+Tiempo en milisegundos: 326.197 ms
+Boletas por segundo: 3065629

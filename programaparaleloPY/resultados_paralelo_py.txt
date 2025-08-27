@@ -2,27 +2,27 @@ RESULTADOS CONTEO PARALELO (Python Threads)
 ===========================================
 
 Configuracion:
-- Numero de boletas: 800000
+- Numero de boletas: 1000000
 - Numero de candidatos: 10
 - Numero de hilos: 8
 
 Resultados por candidato:
-Candidato 1: 56128 votos
-Candidato 2: 56149 votos
-Candidato 3: 55721 votos
-Candidato 4: 55867 votos
-Candidato 5: 55985 votos
-Candidato 6: 56087 votos
-Candidato 7: 55732 votos
-Candidato 8: 55933 votos
-Candidato 9: 55749 votos
-Candidato 10: 55979 votos
+Candidato 1: 70622 votos
+Candidato 2: 69607 votos
+Candidato 3: 70234 votos
+Candidato 4: 70290 votos
+Candidato 5: 70103 votos
+Candidato 6: 69740 votos
+Candidato 7: 70307 votos
+Candidato 8: 69858 votos
+Candidato 9: 69746 votos
+Candidato 10: 69877 votos
 
 Resumen:
-- Votos validos: 559330
-- Votos nulos: 240670
-- Total procesado: 800000
+- Votos validos: 700384
+- Votos nulos: 299616
+- Total procesado: 1000000
 
-Tiempo de ejecucion: 1.152557 s
-Tiempo en milisegundos: 1152.557 ms
-Boletas por segundo: 694109
+Tiempo de ejecucion: 1.019465 s
+Tiempo en milisegundos: 1019.465 ms
+Boletas por segundo: 980906
